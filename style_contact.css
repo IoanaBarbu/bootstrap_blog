@@ -1,0 +1,40 @@
+#header{
+    padding: 10px;
+    text-align: center;
+    font-size: 55px;
+    width: 100%; 
+    background-color: lightslategrey;
+    color: #f1f1f1;  
+    margin-bottom: 20px;  
+  }
+
+  .footer {
+    text-align: center;
+    background-color: lightslategrey;
+    color: #f1f1f1;    
+    font-size: 25px;
+    width: 100%;  
+    margin-top: 20px;  
+  }
+
+  body{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    padding: 15px;
+    font-size: 20px;
+}
+
+.form-control {
+    border: solid black 1px; background-color: lightgrey;
+
+}
+
+ 
+
+ 

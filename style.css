@@ -1,0 +1,126 @@
+* {
+  box-sizing: border-box;
+}
+
+#header{
+  padding: 10px;
+  text-align: center;
+  font-size: 55px;
+  width: 100%; 
+  background-color: lightslategrey;
+  color: #f1f1f1;    
+}
+
+
+
+body{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+  .row {  
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+
+  .side {
+    flex: 30%;
+    background-color: #f1f1f1;
+    text-align: center; 
+    margin-top: 10px;
+  }
+
+  .side h4{
+    font-size: 25px;
+    margin-top: 15px;
+  }
+
+  .side li {
+    list-style-type: none;
+  }
+  .side ul {
+    
+    text-align: justify;
+    font-weight:400;
+    font-size: 14px;
+    padding-bottom: 15px;
+  }
+
+  
+  .main {
+    flex: 70%;
+    background-color: white;
+    padding: 20px;
+  }
+
+  .main h2 {
+    text-align: center;
+  }
+
+  .main p {
+    text-align: center; 
+  }
+
+  .footer {
+    text-align: center;
+    background-color: lightslategrey;
+    color: #f1f1f1;    
+    font-size: 25px;
+    width: 100%;    
+  }
+
+.formHobby{
+  margin-top: 15px;
+  text-align: center;
+  padding:10px;
+  background-color: azure;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+.movietime{
+  margin-top: 70px;
+}
+
+.card{
+  background-color: lightgrey;
+}
+
+
+.externalLinks{
+ 
+  margin-top: 1350px;
+  padding: 20px;
+}
+
+.container-Paris{
+  display: flex;
+}
+
+.text-Paris {
+  margin-left: 10px;
+  padding: 5px;
+}
+
+.img-Paris{
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+
+  
+  
+
+ 
+
+ 
+    
+  
+  
+
+ 
+
+
